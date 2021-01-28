@@ -20,7 +20,7 @@ Add Live2D widget to web page. Compatible with PJAX.
 在[米米的博客](https://zhangshuqiao.org)的左下角可查看效果。（注：以下人物模型仅供展示之用，本仓库并不包含任何模型。）
 
 <img src="assets/screenshot-2.png" width="280"><img src="assets/screenshot-3.png" width="280"><img src="assets/screenshot-1.png" width="270">
-
+v
 你也可以在允许的范围内进行二次开发，这里有一些示例
 
 - [demo.html](https://mi.js.org/live2d-widget/demo/demo.html) ，展现基础效果
